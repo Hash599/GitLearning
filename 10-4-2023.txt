@@ -1,0 +1,10 @@
+>>>JS EXPERSIONS<<<
+USE {} to add js Expression inside JS Element
+>>>>Template Literals<<<<
+>>Concatination<<
+>>{v1}{v1}<<
+>>Console.log(`Name ${v}`)<<
+>>>JSX Attributes<<<<
+>>SELF CLOSING TAG<<
+>>CSS IN REACt<<
+>>INLINE CSS<<

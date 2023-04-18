@@ -1,0 +1,17 @@
+>>TOPICS COVERED<<
+WHAT IS REACT
+ReacT Is Js Library to Built UI
+>>INTRO TO REACT<<<
+>>>>COMPONENTS BASED APPORCH<<<<<
+>>>Prerequisties<<<<
+1.Basic Knowledge CSS HTML AND JAVASCRIPT
+2.BASIC UNDDERSTANDING OF ES6(ECMASCRIPT)
+3.HOW TO USE NPM(NODE PACKAGE MANAGER)
+
+>>REACT JS ENVIRONMENT<<
+>>React<<
+>>React-DOM<<
+>>Render Method<<
+>>JSX(JSXML) IN REACT<<
+>>Render Multiple JSX Element<<
+>>React Fragment<<
